@@ -1,0 +1,1 @@
+The aim of this project is to illuminate the important statistics concepts and clarify their importance in the context of data science and big data. The course material we current use is the first 3 chapters of the book "Practical Statistics for Data Scientists"
